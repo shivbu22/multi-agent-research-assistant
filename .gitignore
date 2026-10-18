@@ -48,3 +48,5 @@ reports/
 *.swo
 .DS_Store
 Thumbs.db
+
+node_modules/
